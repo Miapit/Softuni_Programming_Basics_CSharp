@@ -1,0 +1,10 @@
+d:\Users\parvanov\Documents\Visual Studio 2017\Projects\SOFTUNI_Simple-Calculations\Triangle\obj\Debug\Triangle.csproj.CoreCompileInputs.cache
+d:\Users\parvanov\Documents\Visual Studio 2017\Projects\SOFTUNI_Simple-Calculations\Triangle\bin\Debug\Triangle.exe
+d:\Users\parvanov\Documents\Visual Studio 2017\Projects\SOFTUNI_Simple-Calculations\Triangle\bin\Debug\Triangle.pdb
+d:\Users\parvanov\Documents\Visual Studio 2017\Projects\SOFTUNI_Simple-Calculations\Triangle\obj\Debug\Triangle.exe
+d:\Users\parvanov\Documents\Visual Studio 2017\Projects\SOFTUNI_Simple-Calculations\Triangle\obj\Debug\Triangle.pdb
+D:\Dropbox\Softuni_Programming_Basics_C#\SOFTUNI_Simple-Calculations\Triangle\bin\Debug\Triangle.exe
+D:\Dropbox\Softuni_Programming_Basics_C#\SOFTUNI_Simple-Calculations\Triangle\bin\Debug\Triangle.pdb
+D:\Dropbox\Softuni_Programming_Basics_C#\SOFTUNI_Simple-Calculations\Triangle\obj\Debug\Triangle.csproj.CoreCompileInputs.cache
+D:\Dropbox\Softuni_Programming_Basics_C#\SOFTUNI_Simple-Calculations\Triangle\obj\Debug\Triangle.exe
+D:\Dropbox\Softuni_Programming_Basics_C#\SOFTUNI_Simple-Calculations\Triangle\obj\Debug\Triangle.pdb

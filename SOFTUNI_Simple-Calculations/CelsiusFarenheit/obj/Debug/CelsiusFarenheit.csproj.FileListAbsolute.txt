@@ -1,0 +1,10 @@
+d:\Users\parvanov\Documents\Visual Studio 2017\Projects\SOFTUNI_Simple-Calculations\CelsiusFarenheit\bin\Debug\CelsiusFarenheit.exe
+d:\Users\parvanov\Documents\Visual Studio 2017\Projects\SOFTUNI_Simple-Calculations\CelsiusFarenheit\bin\Debug\CelsiusFarenheit.pdb
+d:\Users\parvanov\Documents\Visual Studio 2017\Projects\SOFTUNI_Simple-Calculations\CelsiusFarenheit\obj\Debug\CelsiusFarenheit.csproj.CoreCompileInputs.cache
+d:\Users\parvanov\Documents\Visual Studio 2017\Projects\SOFTUNI_Simple-Calculations\CelsiusFarenheit\obj\Debug\CelsiusFarenheit.exe
+d:\Users\parvanov\Documents\Visual Studio 2017\Projects\SOFTUNI_Simple-Calculations\CelsiusFarenheit\obj\Debug\CelsiusFarenheit.pdb
+D:\Dropbox\Softuni_Programming_Basics_C#\SOFTUNI_Simple-Calculations\CelsiusFarenheit\bin\Debug\CelsiusFarenheit.exe
+D:\Dropbox\Softuni_Programming_Basics_C#\SOFTUNI_Simple-Calculations\CelsiusFarenheit\bin\Debug\CelsiusFarenheit.pdb
+D:\Dropbox\Softuni_Programming_Basics_C#\SOFTUNI_Simple-Calculations\CelsiusFarenheit\obj\Debug\CelsiusFarenheit.csproj.CoreCompileInputs.cache
+D:\Dropbox\Softuni_Programming_Basics_C#\SOFTUNI_Simple-Calculations\CelsiusFarenheit\obj\Debug\CelsiusFarenheit.exe
+D:\Dropbox\Softuni_Programming_Basics_C#\SOFTUNI_Simple-Calculations\CelsiusFarenheit\obj\Debug\CelsiusFarenheit.pdb

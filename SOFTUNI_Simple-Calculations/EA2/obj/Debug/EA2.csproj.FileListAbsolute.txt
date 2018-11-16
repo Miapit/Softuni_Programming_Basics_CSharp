@@ -1,0 +1,6 @@
+D:\Dropbox\Softuni_Programming_Basics_C#\SOFTUNI_Simple-Calculations\EA2\bin\Debug\EA2.exe.config
+D:\Dropbox\Softuni_Programming_Basics_C#\SOFTUNI_Simple-Calculations\EA2\bin\Debug\EA2.exe
+D:\Dropbox\Softuni_Programming_Basics_C#\SOFTUNI_Simple-Calculations\EA2\bin\Debug\EA2.pdb
+D:\Dropbox\Softuni_Programming_Basics_C#\SOFTUNI_Simple-Calculations\EA2\obj\Debug\EA2.csproj.CoreCompileInputs.cache
+D:\Dropbox\Softuni_Programming_Basics_C#\SOFTUNI_Simple-Calculations\EA2\obj\Debug\EA2.exe
+D:\Dropbox\Softuni_Programming_Basics_C#\SOFTUNI_Simple-Calculations\EA2\obj\Debug\EA2.pdb

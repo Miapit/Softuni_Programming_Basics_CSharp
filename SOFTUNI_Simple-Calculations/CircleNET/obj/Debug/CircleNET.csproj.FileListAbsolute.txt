@@ -1,0 +1,10 @@
+d:\Users\parvanov\Documents\Visual Studio 2017\Projects\SOFTUNI_Simple-Calculations\CircleNET\bin\Debug\CircleNET.exe
+d:\Users\parvanov\Documents\Visual Studio 2017\Projects\SOFTUNI_Simple-Calculations\CircleNET\bin\Debug\CircleNET.pdb
+d:\Users\parvanov\Documents\Visual Studio 2017\Projects\SOFTUNI_Simple-Calculations\CircleNET\obj\Debug\CircleNET.csproj.CoreCompileInputs.cache
+d:\Users\parvanov\Documents\Visual Studio 2017\Projects\SOFTUNI_Simple-Calculations\CircleNET\obj\Debug\CircleNET.exe
+d:\Users\parvanov\Documents\Visual Studio 2017\Projects\SOFTUNI_Simple-Calculations\CircleNET\obj\Debug\CircleNET.pdb
+D:\Dropbox\Softuni_Programming_Basics_C#\SOFTUNI_Simple-Calculations\CircleNET\bin\Debug\CircleNET.exe
+D:\Dropbox\Softuni_Programming_Basics_C#\SOFTUNI_Simple-Calculations\CircleNET\bin\Debug\CircleNET.pdb
+D:\Dropbox\Softuni_Programming_Basics_C#\SOFTUNI_Simple-Calculations\CircleNET\obj\Debug\CircleNET.csproj.CoreCompileInputs.cache
+D:\Dropbox\Softuni_Programming_Basics_C#\SOFTUNI_Simple-Calculations\CircleNET\obj\Debug\CircleNET.exe
+D:\Dropbox\Softuni_Programming_Basics_C#\SOFTUNI_Simple-Calculations\CircleNET\obj\Debug\CircleNET.pdb

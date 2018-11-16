@@ -1,0 +1,10 @@
+d:\Users\parvanov\Documents\Visual Studio 2017\Projects\SOFTUNI_Simple-Calculations\TrapezoidArea\bin\Debug\TrapezoidArea.exe
+d:\Users\parvanov\Documents\Visual Studio 2017\Projects\SOFTUNI_Simple-Calculations\TrapezoidArea\bin\Debug\TrapezoidArea.pdb
+d:\Users\parvanov\Documents\Visual Studio 2017\Projects\SOFTUNI_Simple-Calculations\TrapezoidArea\obj\Debug\TrapezoidArea.csproj.CoreCompileInputs.cache
+d:\Users\parvanov\Documents\Visual Studio 2017\Projects\SOFTUNI_Simple-Calculations\TrapezoidArea\obj\Debug\TrapezoidArea.exe
+d:\Users\parvanov\Documents\Visual Studio 2017\Projects\SOFTUNI_Simple-Calculations\TrapezoidArea\obj\Debug\TrapezoidArea.pdb
+D:\Dropbox\Softuni_Programming_Basics_C#\SOFTUNI_Simple-Calculations\TrapezoidArea\bin\Debug\TrapezoidArea.exe
+D:\Dropbox\Softuni_Programming_Basics_C#\SOFTUNI_Simple-Calculations\TrapezoidArea\bin\Debug\TrapezoidArea.pdb
+D:\Dropbox\Softuni_Programming_Basics_C#\SOFTUNI_Simple-Calculations\TrapezoidArea\obj\Debug\TrapezoidArea.csproj.CoreCompileInputs.cache
+D:\Dropbox\Softuni_Programming_Basics_C#\SOFTUNI_Simple-Calculations\TrapezoidArea\obj\Debug\TrapezoidArea.exe
+D:\Dropbox\Softuni_Programming_Basics_C#\SOFTUNI_Simple-Calculations\TrapezoidArea\obj\Debug\TrapezoidArea.pdb

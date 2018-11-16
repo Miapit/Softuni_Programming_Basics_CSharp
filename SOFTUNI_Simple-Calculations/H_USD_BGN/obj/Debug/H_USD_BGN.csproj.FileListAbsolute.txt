@@ -1,0 +1,5 @@
+d:\Users\parvanov\Documents\Visual Studio 2017\Projects\SOFTUNI_Simple-Calculations\H_USD_BGN\bin\Debug\H_USD_BGN.exe
+d:\Users\parvanov\Documents\Visual Studio 2017\Projects\SOFTUNI_Simple-Calculations\H_USD_BGN\bin\Debug\H_USD_BGN.pdb
+d:\Users\parvanov\Documents\Visual Studio 2017\Projects\SOFTUNI_Simple-Calculations\H_USD_BGN\obj\Debug\H_USD_BGN.csproj.CoreCompileInputs.cache
+d:\Users\parvanov\Documents\Visual Studio 2017\Projects\SOFTUNI_Simple-Calculations\H_USD_BGN\obj\Debug\H_USD_BGN.exe
+d:\Users\parvanov\Documents\Visual Studio 2017\Projects\SOFTUNI_Simple-Calculations\H_USD_BGN\obj\Debug\H_USD_BGN.pdb

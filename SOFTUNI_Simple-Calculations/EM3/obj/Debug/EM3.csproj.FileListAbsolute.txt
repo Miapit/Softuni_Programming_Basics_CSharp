@@ -1,0 +1,6 @@
+D:\Dropbox\Softuni_Programming_Basics_C#\SOFTUNI_Simple-Calculations\EM3\bin\Debug\EM3.exe.config
+D:\Dropbox\Softuni_Programming_Basics_C#\SOFTUNI_Simple-Calculations\EM3\bin\Debug\EM3.exe
+D:\Dropbox\Softuni_Programming_Basics_C#\SOFTUNI_Simple-Calculations\EM3\bin\Debug\EM3.pdb
+D:\Dropbox\Softuni_Programming_Basics_C#\SOFTUNI_Simple-Calculations\EM3\obj\Debug\EM3.csproj.CoreCompileInputs.cache
+D:\Dropbox\Softuni_Programming_Basics_C#\SOFTUNI_Simple-Calculations\EM3\obj\Debug\EM3.exe
+D:\Dropbox\Softuni_Programming_Basics_C#\SOFTUNI_Simple-Calculations\EM3\obj\Debug\EM3.pdb

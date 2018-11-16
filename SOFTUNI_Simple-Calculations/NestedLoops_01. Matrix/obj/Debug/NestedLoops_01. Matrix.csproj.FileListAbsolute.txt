@@ -1,0 +1,6 @@
+D:\Dropbox\Softuni_Programming_Basics_C#\SOFTUNI_Simple-Calculations\NestedLoops_01. Matrix\bin\Debug\NestedLoops_01.Matrix.exe.config
+D:\Dropbox\Softuni_Programming_Basics_C#\SOFTUNI_Simple-Calculations\NestedLoops_01. Matrix\bin\Debug\NestedLoops_01.Matrix.exe
+D:\Dropbox\Softuni_Programming_Basics_C#\SOFTUNI_Simple-Calculations\NestedLoops_01. Matrix\bin\Debug\NestedLoops_01.Matrix.pdb
+D:\Dropbox\Softuni_Programming_Basics_C#\SOFTUNI_Simple-Calculations\NestedLoops_01. Matrix\obj\Debug\NestedLoops_01. Matrix.csproj.CoreCompileInputs.cache
+D:\Dropbox\Softuni_Programming_Basics_C#\SOFTUNI_Simple-Calculations\NestedLoops_01. Matrix\obj\Debug\NestedLoops_01.Matrix.exe
+D:\Dropbox\Softuni_Programming_Basics_C#\SOFTUNI_Simple-Calculations\NestedLoops_01. Matrix\obj\Debug\NestedLoops_01.Matrix.pdb

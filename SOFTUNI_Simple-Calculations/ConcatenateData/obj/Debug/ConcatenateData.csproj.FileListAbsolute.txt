@@ -1,0 +1,12 @@
+d:\Users\parvanov\Documents\Visual Studio 2017\Projects\SOFTUNI_Simple-Calculations\ConcatenateData\bin\Debug\ConcatenateData.exe
+d:\Users\parvanov\Documents\Visual Studio 2017\Projects\SOFTUNI_Simple-Calculations\ConcatenateData\bin\Debug\ConcatenateData.pdb
+d:\Users\parvanov\Documents\Visual Studio 2017\Projects\SOFTUNI_Simple-Calculations\ConcatenateData\obj\Debug\ConcatenateData.csproj.CoreCompileInputs.cache
+d:\Users\parvanov\Documents\Visual Studio 2017\Projects\SOFTUNI_Simple-Calculations\ConcatenateData\obj\Debug\ConcatenateData.exe
+d:\Users\parvanov\Documents\Visual Studio 2017\Projects\SOFTUNI_Simple-Calculations\ConcatenateData\obj\Debug\ConcatenateData.pdb
+d:\Users\parvanov\Documents\Visual Studio 2017\Projects\SOFTUNI_Simple-Calculations\ConcatenateData\obj\Debug\ConcatenateData.csprojAssemblyReference.cache
+D:\Dropbox\Softuni_Programming_Basics_C#\SOFTUNI_Simple-Calculations\ConcatenateData\bin\Debug\ConcatenateData.exe
+D:\Dropbox\Softuni_Programming_Basics_C#\SOFTUNI_Simple-Calculations\ConcatenateData\bin\Debug\ConcatenateData.pdb
+D:\Dropbox\Softuni_Programming_Basics_C#\SOFTUNI_Simple-Calculations\ConcatenateData\obj\Debug\ConcatenateData.csproj.CoreCompileInputs.cache
+D:\Dropbox\Softuni_Programming_Basics_C#\SOFTUNI_Simple-Calculations\ConcatenateData\obj\Debug\ConcatenateData.exe
+D:\Dropbox\Softuni_Programming_Basics_C#\SOFTUNI_Simple-Calculations\ConcatenateData\obj\Debug\ConcatenateData.pdb
+D:\Dropbox\Softuni_Programming_Basics_C#\SOFTUNI_Simple-Calculations\ConcatenateData\obj\Debug\ConcatenateData.csprojAssemblyReference.cache

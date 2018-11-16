@@ -1,0 +1,10 @@
+d:\Users\parvanov\Documents\Visual Studio 2017\Projects\SOFTUNI_Simple-Calculations\H_5DanceHall\bin\Debug\H_5DanceHall.exe
+d:\Users\parvanov\Documents\Visual Studio 2017\Projects\SOFTUNI_Simple-Calculations\H_5DanceHall\bin\Debug\H_5DanceHall.pdb
+d:\Users\parvanov\Documents\Visual Studio 2017\Projects\SOFTUNI_Simple-Calculations\H_5DanceHall\obj\Debug\H_5DanceHall.csproj.CoreCompileInputs.cache
+d:\Users\parvanov\Documents\Visual Studio 2017\Projects\SOFTUNI_Simple-Calculations\H_5DanceHall\obj\Debug\H_5DanceHall.exe
+d:\Users\parvanov\Documents\Visual Studio 2017\Projects\SOFTUNI_Simple-Calculations\H_5DanceHall\obj\Debug\H_5DanceHall.pdb
+D:\Dropbox\Softuni_Programming_Basics_C#\SOFTUNI_Simple-Calculations\H_5DanceHall\bin\Debug\H_5DanceHall.exe
+D:\Dropbox\Softuni_Programming_Basics_C#\SOFTUNI_Simple-Calculations\H_5DanceHall\bin\Debug\H_5DanceHall.pdb
+D:\Dropbox\Softuni_Programming_Basics_C#\SOFTUNI_Simple-Calculations\H_5DanceHall\obj\Debug\H_5DanceHall.csproj.CoreCompileInputs.cache
+D:\Dropbox\Softuni_Programming_Basics_C#\SOFTUNI_Simple-Calculations\H_5DanceHall\obj\Debug\H_5DanceHall.exe
+D:\Dropbox\Softuni_Programming_Basics_C#\SOFTUNI_Simple-Calculations\H_5DanceHall\obj\Debug\H_5DanceHall.pdb

@@ -1,0 +1,10 @@
+d:\Users\parvanov\Documents\Visual Studio 2017\Projects\SOFTUNI_Simple-Calculations\H_3Currency_Convertor\bin\Debug\H_3Currency_Convertor.exe
+d:\Users\parvanov\Documents\Visual Studio 2017\Projects\SOFTUNI_Simple-Calculations\H_3Currency_Convertor\bin\Debug\H_3Currency_Convertor.pdb
+d:\Users\parvanov\Documents\Visual Studio 2017\Projects\SOFTUNI_Simple-Calculations\H_3Currency_Convertor\obj\Debug\H_3Currency_Convertor.csproj.CoreCompileInputs.cache
+d:\Users\parvanov\Documents\Visual Studio 2017\Projects\SOFTUNI_Simple-Calculations\H_3Currency_Convertor\obj\Debug\H_3Currency_Convertor.exe
+d:\Users\parvanov\Documents\Visual Studio 2017\Projects\SOFTUNI_Simple-Calculations\H_3Currency_Convertor\obj\Debug\H_3Currency_Convertor.pdb
+D:\Dropbox\Softuni_Programming_Basics_C#\SOFTUNI_Simple-Calculations\H_3Currency_Convertor\bin\Debug\H_3Currency_Convertor.exe
+D:\Dropbox\Softuni_Programming_Basics_C#\SOFTUNI_Simple-Calculations\H_3Currency_Convertor\bin\Debug\H_3Currency_Convertor.pdb
+D:\Dropbox\Softuni_Programming_Basics_C#\SOFTUNI_Simple-Calculations\H_3Currency_Convertor\obj\Debug\H_3Currency_Convertor.csproj.CoreCompileInputs.cache
+D:\Dropbox\Softuni_Programming_Basics_C#\SOFTUNI_Simple-Calculations\H_3Currency_Convertor\obj\Debug\H_3Currency_Convertor.exe
+D:\Dropbox\Softuni_Programming_Basics_C#\SOFTUNI_Simple-Calculations\H_3Currency_Convertor\obj\Debug\H_3Currency_Convertor.pdb

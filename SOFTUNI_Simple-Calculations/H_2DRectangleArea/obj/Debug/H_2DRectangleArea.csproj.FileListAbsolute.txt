@@ -1,0 +1,6 @@
+d:\Users\parvanov\Documents\Visual Studio 2017\Projects\SOFTUNI_Simple-Calculations\H_2DRectangleArea\bin\Debug\H_2DRectangleArea.exe
+d:\Users\parvanov\Documents\Visual Studio 2017\Projects\SOFTUNI_Simple-Calculations\H_2DRectangleArea\bin\Debug\H_2DRectangleArea.pdb
+d:\Users\parvanov\Documents\Visual Studio 2017\Projects\SOFTUNI_Simple-Calculations\H_2DRectangleArea\obj\Debug\H_2DRectangleArea.csprojAssemblyReference.cache
+d:\Users\parvanov\Documents\Visual Studio 2017\Projects\SOFTUNI_Simple-Calculations\H_2DRectangleArea\obj\Debug\H_2DRectangleArea.csproj.CoreCompileInputs.cache
+d:\Users\parvanov\Documents\Visual Studio 2017\Projects\SOFTUNI_Simple-Calculations\H_2DRectangleArea\obj\Debug\H_2DRectangleArea.exe
+d:\Users\parvanov\Documents\Visual Studio 2017\Projects\SOFTUNI_Simple-Calculations\H_2DRectangleArea\obj\Debug\H_2DRectangleArea.pdb

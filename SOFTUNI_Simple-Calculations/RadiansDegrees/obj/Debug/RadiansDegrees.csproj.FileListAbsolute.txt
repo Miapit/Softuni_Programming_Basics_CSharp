@@ -1,0 +1,10 @@
+d:\Users\parvanov\Documents\Visual Studio 2017\Projects\SOFTUNI_Simple-Calculations\RadiansDegrees\bin\Debug\RadiansDegrees.exe
+d:\Users\parvanov\Documents\Visual Studio 2017\Projects\SOFTUNI_Simple-Calculations\RadiansDegrees\bin\Debug\RadiansDegrees.pdb
+d:\Users\parvanov\Documents\Visual Studio 2017\Projects\SOFTUNI_Simple-Calculations\RadiansDegrees\obj\Debug\RadiansDegrees.csproj.CoreCompileInputs.cache
+d:\Users\parvanov\Documents\Visual Studio 2017\Projects\SOFTUNI_Simple-Calculations\RadiansDegrees\obj\Debug\RadiansDegrees.exe
+d:\Users\parvanov\Documents\Visual Studio 2017\Projects\SOFTUNI_Simple-Calculations\RadiansDegrees\obj\Debug\RadiansDegrees.pdb
+D:\Dropbox\Softuni_Programming_Basics_C#\SOFTUNI_Simple-Calculations\RadiansDegrees\bin\Debug\RadiansDegrees.exe
+D:\Dropbox\Softuni_Programming_Basics_C#\SOFTUNI_Simple-Calculations\RadiansDegrees\bin\Debug\RadiansDegrees.pdb
+D:\Dropbox\Softuni_Programming_Basics_C#\SOFTUNI_Simple-Calculations\RadiansDegrees\obj\Debug\RadiansDegrees.csproj.CoreCompileInputs.cache
+D:\Dropbox\Softuni_Programming_Basics_C#\SOFTUNI_Simple-Calculations\RadiansDegrees\obj\Debug\RadiansDegrees.exe
+D:\Dropbox\Softuni_Programming_Basics_C#\SOFTUNI_Simple-Calculations\RadiansDegrees\obj\Debug\RadiansDegrees.pdb

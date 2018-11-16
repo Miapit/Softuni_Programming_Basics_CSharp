@@ -1,0 +1,22 @@
+d:\Users\parvanov\Documents\Visual Studio 2017\Projects\SOFTUNI_Simple-Calculations\Circle\bin\Debug\netcoreapp2.1\Circle.deps.json
+d:\Users\parvanov\Documents\Visual Studio 2017\Projects\SOFTUNI_Simple-Calculations\Circle\bin\Debug\netcoreapp2.1\Circle.runtimeconfig.json
+d:\Users\parvanov\Documents\Visual Studio 2017\Projects\SOFTUNI_Simple-Calculations\Circle\bin\Debug\netcoreapp2.1\Circle.runtimeconfig.dev.json
+d:\Users\parvanov\Documents\Visual Studio 2017\Projects\SOFTUNI_Simple-Calculations\Circle\bin\Debug\netcoreapp2.1\Circle.dll
+d:\Users\parvanov\Documents\Visual Studio 2017\Projects\SOFTUNI_Simple-Calculations\Circle\bin\Debug\netcoreapp2.1\Circle.pdb
+d:\Users\parvanov\Documents\Visual Studio 2017\Projects\SOFTUNI_Simple-Calculations\Circle\obj\Debug\netcoreapp2.1\Circle.csprojAssemblyReference.cache
+d:\Users\parvanov\Documents\Visual Studio 2017\Projects\SOFTUNI_Simple-Calculations\Circle\obj\Debug\netcoreapp2.1\Circle.csproj.CoreCompileInputs.cache
+d:\Users\parvanov\Documents\Visual Studio 2017\Projects\SOFTUNI_Simple-Calculations\Circle\obj\Debug\netcoreapp2.1\Circle.AssemblyInfoInputs.cache
+d:\Users\parvanov\Documents\Visual Studio 2017\Projects\SOFTUNI_Simple-Calculations\Circle\obj\Debug\netcoreapp2.1\Circle.AssemblyInfo.cs
+d:\Users\parvanov\Documents\Visual Studio 2017\Projects\SOFTUNI_Simple-Calculations\Circle\obj\Debug\netcoreapp2.1\Circle.dll
+d:\Users\parvanov\Documents\Visual Studio 2017\Projects\SOFTUNI_Simple-Calculations\Circle\obj\Debug\netcoreapp2.1\Circle.pdb
+D:\Dropbox\Softuni_Programming_Basics_C#\SOFTUNI_Simple-Calculations\Circle\bin\Debug\netcoreapp2.1\Circle.deps.json
+D:\Dropbox\Softuni_Programming_Basics_C#\SOFTUNI_Simple-Calculations\Circle\bin\Debug\netcoreapp2.1\Circle.runtimeconfig.json
+D:\Dropbox\Softuni_Programming_Basics_C#\SOFTUNI_Simple-Calculations\Circle\bin\Debug\netcoreapp2.1\Circle.runtimeconfig.dev.json
+D:\Dropbox\Softuni_Programming_Basics_C#\SOFTUNI_Simple-Calculations\Circle\bin\Debug\netcoreapp2.1\Circle.dll
+D:\Dropbox\Softuni_Programming_Basics_C#\SOFTUNI_Simple-Calculations\Circle\bin\Debug\netcoreapp2.1\Circle.pdb
+D:\Dropbox\Softuni_Programming_Basics_C#\SOFTUNI_Simple-Calculations\Circle\obj\Debug\netcoreapp2.1\Circle.csproj.CoreCompileInputs.cache
+D:\Dropbox\Softuni_Programming_Basics_C#\SOFTUNI_Simple-Calculations\Circle\obj\Debug\netcoreapp2.1\Circle.AssemblyInfoInputs.cache
+D:\Dropbox\Softuni_Programming_Basics_C#\SOFTUNI_Simple-Calculations\Circle\obj\Debug\netcoreapp2.1\Circle.AssemblyInfo.cs
+D:\Dropbox\Softuni_Programming_Basics_C#\SOFTUNI_Simple-Calculations\Circle\obj\Debug\netcoreapp2.1\Circle.dll
+D:\Dropbox\Softuni_Programming_Basics_C#\SOFTUNI_Simple-Calculations\Circle\obj\Debug\netcoreapp2.1\Circle.pdb
+D:\Dropbox\Softuni_Programming_Basics_C#\SOFTUNI_Simple-Calculations\Circle\obj\Debug\netcoreapp2.1\Circle.csprojAssemblyReference.cache

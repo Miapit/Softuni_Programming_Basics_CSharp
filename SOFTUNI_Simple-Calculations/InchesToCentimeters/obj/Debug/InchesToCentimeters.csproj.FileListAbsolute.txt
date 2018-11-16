@@ -1,0 +1,12 @@
+d:\Users\parvanov\Documents\Visual Studio 2017\Projects\SOFTUNI_Simple-Calculations\InchesToCentimeters\bin\Debug\InchesToCentimeters.exe
+d:\Users\parvanov\Documents\Visual Studio 2017\Projects\SOFTUNI_Simple-Calculations\InchesToCentimeters\bin\Debug\InchesToCentimeters.pdb
+d:\Users\parvanov\Documents\Visual Studio 2017\Projects\SOFTUNI_Simple-Calculations\InchesToCentimeters\obj\Debug\InchesToCentimeters.csproj.CoreCompileInputs.cache
+d:\Users\parvanov\Documents\Visual Studio 2017\Projects\SOFTUNI_Simple-Calculations\InchesToCentimeters\obj\Debug\InchesToCentimeters.exe
+d:\Users\parvanov\Documents\Visual Studio 2017\Projects\SOFTUNI_Simple-Calculations\InchesToCentimeters\obj\Debug\InchesToCentimeters.pdb
+d:\Users\parvanov\Documents\Visual Studio 2017\Projects\SOFTUNI_Simple-Calculations\InchesToCentimeters\obj\Debug\InchesToCentimeters.csprojAssemblyReference.cache
+D:\Dropbox\Softuni_Programming_Basics_C#\SOFTUNI_Simple-Calculations\InchesToCentimeters\bin\Debug\InchesToCentimeters.exe
+D:\Dropbox\Softuni_Programming_Basics_C#\SOFTUNI_Simple-Calculations\InchesToCentimeters\bin\Debug\InchesToCentimeters.pdb
+D:\Dropbox\Softuni_Programming_Basics_C#\SOFTUNI_Simple-Calculations\InchesToCentimeters\obj\Debug\InchesToCentimeters.csproj.CoreCompileInputs.cache
+D:\Dropbox\Softuni_Programming_Basics_C#\SOFTUNI_Simple-Calculations\InchesToCentimeters\obj\Debug\InchesToCentimeters.exe
+D:\Dropbox\Softuni_Programming_Basics_C#\SOFTUNI_Simple-Calculations\InchesToCentimeters\obj\Debug\InchesToCentimeters.pdb
+D:\Dropbox\Softuni_Programming_Basics_C#\SOFTUNI_Simple-Calculations\InchesToCentimeters\obj\Debug\InchesToCentimeters.csprojAssemblyReference.cache

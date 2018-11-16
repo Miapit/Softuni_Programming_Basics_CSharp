@@ -1,0 +1,11 @@
+d:\Users\parvanov\Documents\Visual Studio 2017\Projects\SOFTUNI_Simple-Calculations\H_6CharityCampaign\bin\Debug\H_6CharityCampaign.exe
+d:\Users\parvanov\Documents\Visual Studio 2017\Projects\SOFTUNI_Simple-Calculations\H_6CharityCampaign\bin\Debug\H_6CharityCampaign.pdb
+d:\Users\parvanov\Documents\Visual Studio 2017\Projects\SOFTUNI_Simple-Calculations\H_6CharityCampaign\obj\Debug\H_6CharityCampaign.csproj.CoreCompileInputs.cache
+d:\Users\parvanov\Documents\Visual Studio 2017\Projects\SOFTUNI_Simple-Calculations\H_6CharityCampaign\obj\Debug\H_6CharityCampaign.exe
+d:\Users\parvanov\Documents\Visual Studio 2017\Projects\SOFTUNI_Simple-Calculations\H_6CharityCampaign\obj\Debug\H_6CharityCampaign.pdb
+d:\Users\parvanov\Documents\Visual Studio 2017\Projects\SOFTUNI_Simple-Calculations\H_6CharityCampaign\obj\Debug\H_6CharityCampaign.csprojAssemblyReference.cache
+D:\Dropbox\Softuni_Programming_Basics_C#\SOFTUNI_Simple-Calculations\H_6CharityCampaign\bin\Debug\H_6CharityCampaign.exe
+D:\Dropbox\Softuni_Programming_Basics_C#\SOFTUNI_Simple-Calculations\H_6CharityCampaign\bin\Debug\H_6CharityCampaign.pdb
+D:\Dropbox\Softuni_Programming_Basics_C#\SOFTUNI_Simple-Calculations\H_6CharityCampaign\obj\Debug\H_6CharityCampaign.csproj.CoreCompileInputs.cache
+D:\Dropbox\Softuni_Programming_Basics_C#\SOFTUNI_Simple-Calculations\H_6CharityCampaign\obj\Debug\H_6CharityCampaign.exe
+D:\Dropbox\Softuni_Programming_Basics_C#\SOFTUNI_Simple-Calculations\H_6CharityCampaign\obj\Debug\H_6CharityCampaign.pdb

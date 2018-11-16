@@ -1,0 +1,10 @@
+d:\Users\parvanov\Documents\Visual Studio 2017\Projects\SOFTUNI_Simple-Calculations\H_4Tailoring_Workshop\bin\Debug\H_4Tailoring_Workshop.exe
+d:\Users\parvanov\Documents\Visual Studio 2017\Projects\SOFTUNI_Simple-Calculations\H_4Tailoring_Workshop\bin\Debug\H_4Tailoring_Workshop.pdb
+d:\Users\parvanov\Documents\Visual Studio 2017\Projects\SOFTUNI_Simple-Calculations\H_4Tailoring_Workshop\obj\Debug\H_4Tailoring_Workshop.csproj.CoreCompileInputs.cache
+d:\Users\parvanov\Documents\Visual Studio 2017\Projects\SOFTUNI_Simple-Calculations\H_4Tailoring_Workshop\obj\Debug\H_4Tailoring_Workshop.exe
+d:\Users\parvanov\Documents\Visual Studio 2017\Projects\SOFTUNI_Simple-Calculations\H_4Tailoring_Workshop\obj\Debug\H_4Tailoring_Workshop.pdb
+D:\Dropbox\Softuni_Programming_Basics_C#\SOFTUNI_Simple-Calculations\H_4Tailoring_Workshop\bin\Debug\H_4Tailoring_Workshop.exe
+D:\Dropbox\Softuni_Programming_Basics_C#\SOFTUNI_Simple-Calculations\H_4Tailoring_Workshop\bin\Debug\H_4Tailoring_Workshop.pdb
+D:\Dropbox\Softuni_Programming_Basics_C#\SOFTUNI_Simple-Calculations\H_4Tailoring_Workshop\obj\Debug\H_4Tailoring_Workshop.csproj.CoreCompileInputs.cache
+D:\Dropbox\Softuni_Programming_Basics_C#\SOFTUNI_Simple-Calculations\H_4Tailoring_Workshop\obj\Debug\H_4Tailoring_Workshop.exe
+D:\Dropbox\Softuni_Programming_Basics_C#\SOFTUNI_Simple-Calculations\H_4Tailoring_Workshop\obj\Debug\H_4Tailoring_Workshop.pdb

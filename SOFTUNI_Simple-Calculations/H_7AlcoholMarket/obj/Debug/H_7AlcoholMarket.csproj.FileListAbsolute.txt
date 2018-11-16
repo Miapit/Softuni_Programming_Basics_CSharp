@@ -1,0 +1,10 @@
+d:\Users\parvanov\Documents\Visual Studio 2017\Projects\SOFTUNI_Simple-Calculations\H_7AlcoholMarket\bin\Debug\H_7AlcoholMarket.exe
+d:\Users\parvanov\Documents\Visual Studio 2017\Projects\SOFTUNI_Simple-Calculations\H_7AlcoholMarket\bin\Debug\H_7AlcoholMarket.pdb
+d:\Users\parvanov\Documents\Visual Studio 2017\Projects\SOFTUNI_Simple-Calculations\H_7AlcoholMarket\obj\Debug\H_7AlcoholMarket.csproj.CoreCompileInputs.cache
+d:\Users\parvanov\Documents\Visual Studio 2017\Projects\SOFTUNI_Simple-Calculations\H_7AlcoholMarket\obj\Debug\H_7AlcoholMarket.exe
+d:\Users\parvanov\Documents\Visual Studio 2017\Projects\SOFTUNI_Simple-Calculations\H_7AlcoholMarket\obj\Debug\H_7AlcoholMarket.pdb
+D:\Dropbox\Softuni_Programming_Basics_C#\SOFTUNI_Simple-Calculations\H_7AlcoholMarket\bin\Debug\H_7AlcoholMarket.exe
+D:\Dropbox\Softuni_Programming_Basics_C#\SOFTUNI_Simple-Calculations\H_7AlcoholMarket\bin\Debug\H_7AlcoholMarket.pdb
+D:\Dropbox\Softuni_Programming_Basics_C#\SOFTUNI_Simple-Calculations\H_7AlcoholMarket\obj\Debug\H_7AlcoholMarket.csproj.CoreCompileInputs.cache
+D:\Dropbox\Softuni_Programming_Basics_C#\SOFTUNI_Simple-Calculations\H_7AlcoholMarket\obj\Debug\H_7AlcoholMarket.exe
+D:\Dropbox\Softuni_Programming_Basics_C#\SOFTUNI_Simple-Calculations\H_7AlcoholMarket\obj\Debug\H_7AlcoholMarket.pdb
